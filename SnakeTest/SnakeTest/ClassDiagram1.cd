@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SnakeTest.Program" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.Snake">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAIAAAAAAACAAIABBACAAAQIIQAAAAAAAYAA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.Segment">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Segment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.HeadSegment">
+    <Position X="8.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeadSegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.BodySegment">
+    <Position X="12.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BodySegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.GameObject">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAIAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.Apple">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.SegmentDestructor">
+    <Position X="5.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SegmentDestructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.KeyboardWatcher" Collapsed="true">
+    <Position X="16" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAACAAAAgAQAAAAAAAAABAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>KeyboardWatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.KeyboardWatcherThreadArgs" Collapsed="true">
+    <Position X="16.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyboardWatcherThreadArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.SnakeMoverThreadArgs">
+    <Position X="14" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SnakeMoverThreadArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.MenuOption">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MenuOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.Menu">
+    <Position X="21" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAAAAAJAAAAAQAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.GameScoreTable">
+    <Position X="18.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>GameScoreTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.OptionCursor">
+    <Position X="21" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAIAAAAAAAAAAAAAAAAAgAAAAAIgAgRAAAAAA=</HashCode>
+      <FileName>OptionCursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.OnNewSelectedOptionEventArgs">
+    <Position X="15.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAABAAAAAQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>OnNewSelectedOptionEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.TextHighlighter">
+    <Position X="18.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.TextLowlighter">
+    <Position X="14.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextLowlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.StartGameOption">
+    <Position X="23.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StartGameOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeTest.ViewScoresOption">
+    <Position X="19.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewScoresOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SnakeTest.Direction">
+    <Position X="11" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
